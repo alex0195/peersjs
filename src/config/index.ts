@@ -26,8 +26,8 @@ const defaultConfig: IConfig = {
   proxied: false,
   cleanup_out_msgs: 1000,
   ssl: {
-    key:'/etc/letsencrypt/live/ttl.alexander.com.ve/privkey.pem',
-    cert:'/etc/letsencrypt/live/ttl.alexander.com.ve/cert.pem'
+    key:'',
+    cert:''
   }
 };
 
