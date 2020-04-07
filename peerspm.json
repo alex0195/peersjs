@@ -1,0 +1,13 @@
+{
+    "apps": [
+      {
+        "name": "peers",
+        "script": "bin/peerjs",
+        "node_args": [
+            "port 9000",
+            "sslkey '/etc/letsencrypt/live/ttl.alexander.com.ve/privkey.pem'",
+            "sslcert '/etc/letsencrypt/live/ttl.alexander.com.ve/cert.pem'"
+        ]
+      }
+    ]
+  }
