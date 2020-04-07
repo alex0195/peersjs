@@ -1,3 +1,10 @@
+# Repositorio CLON de https://github.com/peers/peerjs-server #
+### [https://github.com/peers/peerjs-server](https://github.com/peers/peerjs-server)
+### [https://peerjs.com](https://peerjs.com)
+
+Este repositorio esta abierto porque aqui esta la configuracion que me funciona a mi necesidad.
+
+
 [![Build Status](https://travis-ci.org/peers/peerjs-server.png?branch=master)](https://travis-ci.org/peers/peerjs-server)
 ![node](https://img.shields.io/node/v/peer)
 ![David](https://img.shields.io/david/peers/peerjs-server)
